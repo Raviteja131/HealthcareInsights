@@ -8,6 +8,7 @@ Header with Notifications:
 The dashboard header includes notification icons to alert users about critical updates, such as new patient data or pending tasks. These notifications are dynamically displayed to improve awareness and responsiveness.
 
 Sidebar Menu:
+
 The sidebar navigation allows quick access to each dashboard section:
 
 Introduction: An overview of the dashboard features.         
