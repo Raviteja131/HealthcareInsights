@@ -1,6 +1,6 @@
 # HealthcareInsights
 
-https://ravitejamoningi.shinyapps.io/HealthcareInsights/                           
+https://ravitejamoningi.shinyapps.io/HealthcareInsights/                                    
 
 Healthcare Insights Dashboard in R Shiny is structured to offer an interactive and user-friendly interface for managing and analyzing healthcare data. Here's a breakdown of the main components:
           
