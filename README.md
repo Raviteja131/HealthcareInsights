@@ -10,7 +10,7 @@ The dashboard header includes notification icons to alert users about critical u
 Sidebar Menu:
 
 The sidebar navigation allows quick access to each dashboard section:
-
+  
 Introduction: An overview of the dashboard features.         
 
 Patient Overview: Summary statistics, patient demographics, and health indicators.
